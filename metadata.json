@@ -1,0 +1,6 @@
+{
+  "name": "Intent Studios Cold Email Tool",
+  "description": "Interactive workspace, lead builder, and execution guide for the Intent Studios cold email automation script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
